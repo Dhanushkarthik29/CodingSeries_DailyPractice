@@ -1,3 +1,5 @@
+// Question Number-->242
+
 class Anagram {
     public boolean isAnagram(String s, String t) {
         int hash[]=new int[26];
