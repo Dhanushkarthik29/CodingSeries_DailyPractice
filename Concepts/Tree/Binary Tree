@@ -1,1 +1,7 @@
+Binary Tree is a hierarchical data structure.
+Node can have a maximum of 2 children
 
+Three types of Binary tree are there 
+1).InOrder traversal -> LEFT - ROOT - RIGHT
+2).PostOrder traversal -> LEFT - RIGHT - ROOT
+3).PreOrder traversal -> ROOT - LEFT - RIGHT
